@@ -100,13 +100,13 @@
       "name": "TikTok Gtok",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "AZA",
-      "subtitle": "TikTok 47.6.0 + Gtok 2.5",
-      "localizedDescription": "TikTok 47.6.0 con el tweak Gtok 2.5.\n\nMod por: @taniaegc24\nCompilación: @FastDecryptBot",
+      "subtitle": "TikTok 47.5.0 + Gtok 2.5",
+      "localizedDescription": "TikTok 47.5.0 con el tweak Gtok 2.5.\n\nMod por: @taniaegc24\nCompilación: @FastDecryptBot",
       "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/tiktok.png",
       "tintColor": "#FE2C55",
       "versions": [
         {
-          "version": "47.6.0",
+          "version": "47.5.0",
           "date": "2026-11-05",
           "size": 0,
           "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/TikTokGtok.ipa",
@@ -156,7 +156,7 @@
       "developerName": "AZA",
       "subtitle": "Instagram 452.0.1 + Rukgram 1.5.0",
       "localizedDescription": "Instagram 452.0.1 con el tweak Rukgram 1.5.0.\n\n✅ Ajustes\n📌 General\n📌 Feeds\n📌 Historias\n📌 Reels\n📌 Mensajes\n📌 Instantáneas\n📌 Perfil\n📌 Interfaz\n📌 Guardar medios, etc.\n\nMod por: @taniaegc24\nCompilación: @FastDecryptBot",
-      "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/instagram.png",
+      "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/Instagram.png",
       "tintColor": "#E1306C",
       "versions": [
         {
@@ -165,6 +165,24 @@
           "size": 0,
           "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/InstagramRukgram.ipa",
           "localizedDescription": "✅ Ajustes\n🧩 Nueva versión 1.5.0\n\n📌 General\n📌 Feeds\n📌 Historias\n📌 Reels\n📌 Mensajes\n📌 Instantáneas\n📌 Perfil\n📌 Interfaz\n📌 Guardar medios, etc."
+        }
+      ]
+    },
+    {
+      "name": "TikTok ASJ",
+      "bundleIdentifier": "com.zhiliaoapp.musically.asj",
+      "developerName": "AZA",
+      "subtitle": "TikTok 47.6.0 + ASJ 1.4.1",
+      "localizedDescription": "TikTok 47.6.0 con el tweak ASJTok 1.4.\n\n✅🚀 Nueva actualización — ASJTok 1.4\n\nMod por: @taniaegc24\nCompilación: @FastDecryptBot",
+      "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/tiktok.png",
+      "tintColor": "#FE2C55",
+      "versions": [
+        {
+          "version": "47.6.0",
+          "date": "2026-11-05",
+          "size": 0,
+          "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/TikTokASJ.ipa",
+          "localizedDescription": "✅🚀 Nueva actualización — ASJTok 1.4\n\n• Botones de vidrio en el video para guardar y ocultar la interfaz. Puedes arrastrarlos a cualquier lugar, y el menú de guardado se abre directamente desde el botón.\n• Los menús y las notificaciones de ASJTok ahora son de vidrio en todas las versiones de iOS.\n• Se muestra el número de visualizaciones de las historias, se puede bloquear TikTok o la bandeja de entrada con Face ID, y se puede agregar y quitar un fondo al perfil.\n• Más de 30 nuevas opciones de configuración.\n• Correcciones y mejoras."
         }
       ]
     }
