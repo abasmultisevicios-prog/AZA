@@ -3,8 +3,8 @@
   "identifier": "com.aza.repo",
   "subtitle": "Apps con tweaks",
   "description": "Fuente AZA para alojar archivos IPA.",
-  "iconURL": "https://TU-DOMINIO/icon.png",
-  "website": "https://TU-DOMINIO",
+  "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/icon.png",
+  "website": "https://github.com/abasmultisevicios-prog/AZA",
   "apps": [
     {
       "name": "Facebook Plus",
@@ -12,14 +12,14 @@
       "developerName": "AZA",
       "subtitle": "Facebook 585.0.0 + Facebook-Plus 1.0.4",
       "localizedDescription": "Facebook 585.0.0 con el tweak Facebook-Plus 1.0.4.\n\nPresiona unos segundos el icono de inicio (🏠) para abrir los ajustes.\n\nInyectado: AZA\nDescifrado: @FastDecryp\nDescripción: @taegc24",
-      "iconURL": "https://TU-DOMINIO/facebook.png",
+      "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/facebook.png",
       "tintColor": "#1877F2",
       "versions": [
         {
           "version": "585.0.0",
           "date": "2026-11-04",
           "size": 0,
-          "downloadURL": "https://TU-DOMINIO/FacebookPlus.ipa",
+          "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/FacebookPlus.ipa",
           "localizedDescription": "💥 Nuevo\n• Los enlaces compartidos (carretes, publicaciones, fotos, historias) se abren en su pantalla exacta en lugar de Inicio.\n• Eliminar historias del feed.\n• Ocultar la superposición de carretes (botones de acción y título).\n• Mantén presionada la marca de Facebook arriba para abrir ajustes.\n• Se agregó chino tradicional: ahora 17 idiomas.\n\n⚙️ Correcciones y mejoras\n• OLED: la barra de estado permanece legible en el encabezado negro.\n• OLED: marcador de posición redondeado detrás de los avatares.\n• OLED: ya no se ennegrece demasiado; los divisores se ven.\n• Se corrigió la pantalla de bienvenida.\n• Se eliminó el subsistema de diagnóstico."
         }
       ]
@@ -30,14 +30,14 @@
       "developerName": "AZA",
       "subtitle": "Spotify 9.1.94 + Eeveespotify 7.0.0",
       "localizedDescription": "Spotify 9.1.94 con el tweak Eeveespotify 7.0.0 (build 1).\n\n🏷️ Configuración y privacidad de Eeveespotify:\n📎 Modificaciones\n📎 Letras\n📎 Personalización\n📎 Experimentos\n📎 SponsorBlock\n📎 AppIcon\n\nMod por: @taniaegc24\nCompilación: @FastDecryptBot",
-      "iconURL": "https://TU-DOMINIO/spotify.png",
+      "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/spotify.png",
       "tintColor": "#1DB954",
       "versions": [
         {
           "version": "9.1.94",
           "date": "2026-11-04",
           "size": 0,
-          "downloadURL": "https://TU-DOMINIO/SpotifyEevee.ipa",
+          "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/SpotifyEevee.ipa",
           "localizedDescription": "Spotify 9.1.94 con Eeveespotify 7.0.0 (build 1)."
         }
       ]
@@ -48,14 +48,14 @@
       "developerName": "AZA",
       "subtitle": "Swiftgram 13.0 + iQ 1.5",
       "localizedDescription": "Swiftgram 13.0 con el tweak iQ 1.5 (iQTele).\n\nMod por: @taniaegc24\nCompilación: @FastDecryptBot",
-      "iconURL": "https://TU-DOMINIO/swiftgram.png",
+      "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/swiftgram.png",
       "tintColor": "#2AABEE",
       "versions": [
         {
           "version": "13.0",
           "date": "2026-11-05",
           "size": 0,
-          "downloadURL": "https://TU-DOMINIO/SwiftgramiQ.ipa",
+          "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/SwiftgramiQ.ipa",
           "localizedDescription": "⚜️ Características de iQTele\n\n🔅 Se corrigió un problema relacionado con las tarifas de SMS (cobro de tarifas para el inicio de sesión). Para solucionarlo, borra la caché e inicia sesión usando un código de barras.\n\n🔅 Se corrigió la desaparición del botón de configuración de iQ en las versiones más recientes.\n\n🔅 Otras correcciones."
         }
       ]
@@ -66,14 +66,14 @@
       "developerName": "AZA",
       "subtitle": "YouTube 21.44.4 + YTKACE 1.1.5",
       "localizedDescription": "YouTube 21.44.4 con el tweak YTKACE 1.1.5 por itzzace.\n\n📌 Descarga\n📌 Barra de navegación\n📌 Feed\n📌 Reproductor\n📌 Shorts\n📌 Barra de pestañas\n📌 Interfaz\n📌 SponsorBlock\n\nMod por: @taniaegc24\nCompilación: @FastDecryptBot",
-      "iconURL": "https://TU-DOMINIO/youtube.png",
+      "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/youtube.png",
       "tintColor": "#FF0000",
       "versions": [
         {
           "version": "21.44.4",
           "date": "2026-11-05",
           "size": 0,
-          "downloadURL": "https://TU-DOMINIO/YouTubeYTKACE.ipa",
+          "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/YouTubeYTKACE.ipa",
           "localizedDescription": "YTKACE v1.1.5 por itzzace."
         }
       ]
