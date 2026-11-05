@@ -77,6 +77,78 @@
           "localizedDescription": "YTKACE v1.1.5 por itzzace."
         }
       ]
+    },
+    {
+      "name": "Twitter NeoFreeBird",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "AZA",
+      "subtitle": "Twitter 12.38.1 + NeoFreeBird 7.3.0",
+      "localizedDescription": "Twitter 12.38.1 con el tweak NeoFreeBird 7.3.0.\n\nPasos para acceder a la configuración de NeoFreeBird:\n1.) Mantén presionado el ícono 📲 o 🕊 en la parte superior.\n\nPasos para descargar vídeos:\n1.) Desde la línea de tiempo, toca los tres puntos horizontales en la esquina superior derecha de cualquier publicación.\n2.) Toca ⬇️ Descargar medios.\n3.) Toca la resolución deseada.\n\nPasos para habilitar la respuesta nativa:\n1.) Abre la configuración de X.\n2.) Toca NeoFreeBird.\n3.) Desplázate hacia abajo y toca Laboratorios.\n4.) Desactiva “Responder en vista web”.\n5.) Para responder, abre cualquier publicación, toca el cuadro “Publicar tu respuesta”, escribe y toca responder.\n\nPasos para acceder a la configuración de Liquid Glass:\n1.) Mantén presionado el ícono 📲 o 🕊 en la parte superior.\n2.) Toca Apariencia.\n3.) Toca Liquid Glass.\n\n✅ Parcheado\n✅ Extensión OpenInTwitter Safari\n\nMod por: @taniaegc24\nCompilación: @FastDecryptBot",
+      "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/twitter.png",
+      "tintColor": "#1DA1F2",
+      "versions": [
+        {
+          "version": "12.38.1",
+          "date": "2026-11-05",
+          "size": 0,
+          "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/TwitterNeoFreeBird.ipa",
+          "localizedDescription": "Pasos para acceder a la configuración de NeoFreeBird:\n1.) Mantén presionado el ícono 📲 o 🕊 en la parte superior.\n\nPasos para descargar vídeos:\n1.) Desde la línea de tiempo, toca los tres puntos horizontales en la esquina superior derecha de cualquier publicación.\n2.) Toca ⬇️ Descargar medios.\n3.) Toca la resolución deseada.\n\nPasos para habilitar la respuesta nativa:\n1.) Abre la configuración de X.\n2.) Toca NeoFreeBird.\n3.) Desplázate hacia abajo y toca Laboratorios.\n4.) Desactiva “Responder en vista web”.\n5.) Para responder, abre cualquier publicación, toca el cuadro “Publicar tu respuesta”, escribe y toca responder.\n\nPasos para acceder a la configuración de Liquid Glass:\n1.) Mantén presionado el ícono 📲 o 🕊 en la parte superior.\n2.) Toca Apariencia.\n3.) Toca Liquid Glass.\n\n✅ Parcheado\n✅ Extensión OpenInTwitter Safari"
+        }
+      ]
+    },
+    {
+      "name": "TikTok Gtok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "AZA",
+      "subtitle": "TikTok 47.5.0 + Gtok 2.5",
+      "localizedDescription": "TikTok 47.5.0 con el tweak Gtok 2.5.\n\nMod por: @taniaegc24\nCompilación: @FastDecryptBot",
+      "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/tiktok.png",
+      "tintColor": "#FE2C55",
+      "versions": [
+        {
+          "version": "47.5.0",
+          "date": "2026-11-05",
+          "size": 0,
+          "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/TikTokGtok.ipa",
+          "localizedDescription": "🧩 Características\n\n➰ Botón de “prohibición” en cada pegatina y foto; configurable en el menú.\n➰ Se agregaron todas las claves AB que existen en TikTok.\n➰ Luces visuales.\n➰ Decoración visual (tick, me gusta, suscripciones, etc.).\n➰ Descargar vídeos en máxima calidad.\n➰ Elección de la calidad.\n➰ Los banners de vídeo ahora son visibles inmediatamente en cualquier perfil.\n➰ Hora exacta en los mensajes.\n➰ Omitir sonidos bloqueados por derechos de autor.\n➰ Traducción automática de todos los comentarios.\n➰ Se corrigieron algunos fallos.\n➰ Se corrigieron errores al mover la barra de pestañas.\n\n⚜️ Descargar en máxima calidad no es una función del servidor: funciona desde TikTok y depende de la calidad del vídeo."
+        }
+      ]
+    },
+    {
+      "name": "TwitchUnblock",
+      "bundleIdentifier": "com.mxfia19.TwitchUnblock",
+      "developerName": "AZA",
+      "subtitle": "Cliente de Twitch de código abierto",
+      "localizedDescription": "TwitchUnblock es un cliente de Twitch de código abierto que permite ver videos a pedido (VOD) y transmisiones en vivo sin una suscripción, y con la máxima calidad. Aplicación nativa para iOS, creada con SwiftUI.\n\nAplicación de MXFia19.",
+      "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/twitch.png",
+      "tintColor": "#9146FF",
+      "versions": [
+        {
+          "version": "1.7.0",
+          "date": "2026-11-05",
+          "size": 0,
+          "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/TwitchUnblock.ipa",
+          "localizedDescription": "TwitchUnblock 1.7.0."
+        }
+      ]
+    },
+    {
+      "name": "Messenger MSGPlusX",
+      "bundleIdentifier": "com.facebook.Messenger",
+      "developerName": "AZA",
+      "subtitle": "Messenger 586.0.0 + MSGPlusX 1.1",
+      "localizedDescription": "Messenger 586.0.0 con el tweak MSGPlusX 1.1 por @Dens0r.\n\nPasos para acceder a la configuración de MSGPlusX:\n1.) Toca el logotipo de Messenger en la esquina superior izquierda.",
+      "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/messenger.png",
+      "tintColor": "#0084FF",
+      "versions": [
+        {
+          "version": "586.0.0",
+          "date": "2026-11-05",
+          "size": 0,
+          "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/MessengerMSGPlusX.ipa",
+          "localizedDescription": "MSGPlusX 1.1 por @Dens0r."
+        }
+      ]
     }
   ],
   "news": []
