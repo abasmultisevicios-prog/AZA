@@ -228,7 +228,25 @@
       "localizedDescription": "WhatsApp 26.43.25 con WGold 4.0 y Watusi 1.3.30."
     }
   ]
-}
+},
+  {
+  "name": "Instagram Regram",
+  "bundleIdentifier": "com.burbn.instagram",
+  "developerName": "AZA",
+  "subtitle": "Instagram 454.1.0 + Regram 7.0",
+  "localizedDescription": "Instagram 454.1.0 con el tweak Regram 7.0.\n\nDescifrado por: Spy_G",
+  "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/Instagram.png",
+  "tintColor": "#E1306C",
+  "versions": [
+    {
+      "version": "454.1.0",
+      "date": "2026-11-06",
+      "size": 0,
+      "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/InstagramRegram_454.1.0.ipa",
+      "localizedDescription": "Instagram 454.1.0 con Regram 7.0. Descifrado por Spy_G."
+    }
   ],
+}
+
   "news": []
 }
