@@ -185,7 +185,25 @@
           "localizedDescription": "✅🚀 Nueva actualización — ASJTok 1.4\n\n• Botones de vidrio en el video para guardar y ocultar la interfaz. Puedes arrastrarlos a cualquier lugar, y el menú de guardado se abre directamente desde el botón.\n• Los menús y las notificaciones de ASJTok ahora son de vidrio en todas las versiones de iOS.\n• Se muestra el número de visualizaciones de las historias, se puede bloquear TikTok o la bandeja de entrada con Face ID, y se puede agregar y quitar un fondo al perfil.\n• Más de 30 nuevas opciones de configuración.\n• Correcciones y mejoras."
         }
       ]
+    },
+ {
+  "name": "Mango",
+  "bundleIdentifier": "mango.app.id",
+  "developerName": "AZA",
+  "subtitle": "App de firma de IPA",
+  "localizedDescription": "Mango 1.3.8: una app de firma buenísima y en desarrollo. Es una muy buena opción.",
+  "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/mango.png",
+  "tintColor": "#4CAF50",
+  "versions": [
+    {
+      "version": "1.3.8",
+      "date": "2026-11-06",
+      "size": 0,
+      "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/Mango.ipa",
+      "localizedDescription": "Mango 1.3.8."
     }
-  ],
-  "news": []
+  ]
+}
+],
+"news": []
 }
