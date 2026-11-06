@@ -211,6 +211,24 @@
         }
       ]
     }
-  ],
+  {
+  "name": "WhatsApp ++",
+  "bundleIdentifier": "net.whatsapp.WhatsApp",
+  "developerName": "AZA",
+  "subtitle": "WhatsApp 26.43.25 + WGold 4.0 + Watusi 1.3.30",
+  "localizedDescription": "WhatsApp 26.43.25 con los tweaks WGold 4.0 y Watusi 1.3.30.",
+  "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/whatsapp.png",
+  "tintColor": "#25D366",
+  "versions": [
+    {
+      "version": "26.43.25",
+      "date": "2026-11-06",
+      "size": 0,
+      "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/WhatsAppPlus_26.43.25.ipa",
+      "localizedDescription": "WhatsApp 26.43.25 con WGold 4.0 y Watusi 1.3.30."
+    }
+  ]
+}
+  ]
   "news": []
 }
