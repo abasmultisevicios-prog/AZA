@@ -100,20 +100,19 @@
       "name": "TikTok Gtok",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "AZA",
-      "subtitle": "TikTok 47.5.0 + Gtok 2.5",
-      "localizedDescription": "TikTok 47.5.0 con el tweak Gtok 2.5.\n\nMod por: @taniaegc24\nCompilación: @FastDecryptBot",
+      "subtitle": "TikTok 47.6.0 + Gtok 2.5",
+      "localizedDescription": "TikTok 47.6.0 con el tweak Gtok 2.5.\n\nMod por: @taniaegc24\nCompilación: @FastDecryptBot",
       "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/tiktok.png",
       "tintColor": "#FE2C55",
       "versions": [
         {
-  "version": "47.6.0",
-  "date": "2026-11-06",
-  "size": 0,
-  "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/TikTokGtok_47.6.0.ipa",
-  "localizedDescription": "🧩 Características\n\n➰ Botón de “prohibición” en cada pegatina y foto; configurable en el menú.\n➰ Se agregaron todas las claves AB que existen en TikTok.\n➰ Luces visuales.\n➰ Decoración visual (tick, me gusta, suscripciones, etc.).\n➰ Descargar vídeos en máxima calidad.\n➰ Elección de la calidad.\n➰ Los banners de vídeo ahora son visibles inmediatamente en cualquier perfil.\n➰ Hora exacta en los mensajes.\n➰ Omitir sonidos bloqueados por derechos de autor.\n➰ Traducción automática de todos los comentarios.\n➰ Se corrigieron algunos fallos.\n➰ Se corrigieron errores al mover la barra de pestañas.\n\n⚜️ Descargar en máxima calidad no es una función del servidor: funciona desde TikTok y depende de la calidad del vídeo."
-},
+          "version": "47.6.0",
+          "date": "2026-11-06",
+          "size": 0,
+          "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/TikTokGtok_47.6.0.ipa",
+          "localizedDescription": "🧩 Características\n\n➰ Botón de “prohibición” en cada pegatina y foto; configurable en el menú.\n➰ Se agregaron todas las claves AB que existen en TikTok.\n➰ Luces visuales.\n➰ Decoración visual (tick, me gusta, suscripciones, etc.).\n➰ Descargar vídeos en máxima calidad.\n➰ Elección de la calidad.\n➰ Los banners de vídeo ahora son visibles inmediatamente en cualquier perfil.\n➰ Hora exacta en los mensajes.\n➰ Omitir sonidos bloqueados por derechos de autor.\n➰ Traducción automática de todos los comentarios.\n➰ Se corrigieron algunos fallos.\n➰ Se corrigieron errores al mover la barra de pestañas.\n\n⚜️ Descargar en máxima calidad no es una función del servidor: funciona desde TikTok y depende de la calidad del vídeo."
         },
-    {
+        {
           "version": "47.5.0",
           "date": "2026-11-05",
           "size": 0,
@@ -180,7 +179,7 @@
       "name": "TikTok ASJ",
       "bundleIdentifier": "com.zhiliaoapp.musically.asj",
       "developerName": "AZA",
-      "subtitle": "TikTok 47.6.0 + ASJ 1.4.1",
+      "subtitle": "TikTok 47.6.0 + ASJ 1.4",
       "localizedDescription": "TikTok 47.6.0 con el tweak ASJTok 1.4.\n\n✅🚀 Nueva actualización — ASJTok 1.4\n\nMod por: @taniaegc24\nCompilación: @FastDecryptBot",
       "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/tiktok.png",
       "tintColor": "#FE2C55",
@@ -194,24 +193,24 @@
         }
       ]
     },
- {
-  "name": "Mango",
-  "bundleIdentifier": "mango.app.id",
-  "developerName": "AZA",
-  "subtitle": "App de firma de IPA",
-  "localizedDescription": "Mango 1.3.8: una app de firma buenísima y en desarrollo. Es una muy buena opción.",
-  "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/mango.png",
-  "tintColor": "#4CAF50",
-  "versions": [
     {
-      "version": "1.3.8",
-      "date": "2026-11-06",
-      "size": 0,
-      "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/Mango.ipa",
-      "localizedDescription": "Mango 1.3.8."
+      "name": "Mango",
+      "bundleIdentifier": "mango.app.id",
+      "developerName": "AZA",
+      "subtitle": "App de firma de IPA",
+      "localizedDescription": "Mango 1.3.8: una app de firma buenísima y en desarrollo. Es una muy buena opción.",
+      "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/mango.png",
+      "tintColor": "#4CAF50",
+      "versions": [
+        {
+          "version": "1.3.8",
+          "date": "2026-11-06",
+          "size": 0,
+          "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/Mango.ipa",
+          "localizedDescription": "Mango 1.3.8."
+        }
+      ]
     }
-  ]
-}
-],
-"news": []
+  ],
+  "news": []
 }
