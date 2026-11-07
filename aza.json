@@ -88,6 +88,13 @@
       "tintColor": "#1DA1F2",
       "versions": [
         {
+  "version": "12.40",
+  "date": "2026-11-07",
+  "size": 0,
+  "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/TwitterNeoFreeBird_12.40.ipa",
+  "localizedDescription": "⚜️ Arreglos\n🔅 Se corrigió que el dominio compartido no funcionaba.\n🔅 Se solucionaron problemas con los tintes personalizados y la barra de pestañas clásica.\n🔅 Las etiquetas de pestañas fijas no se mostraban en el diseño antiguo.\n🔅 Se corrigió el selector de pestañas heredado que no respetaba el botón de perfil.\n🔅 Se corrigió el desenfoque al desplazarse, que no era dim cuando el tema dim estaba habilitado.\n🔅 Se corrigió la sobreescritura del texto en caché, que causaba errores de texto en la aplicación.\n🔅 Se arregló la pantalla de bloqueo que a veces mostraba una pantalla negra hasta un reinicio.\n🔅 Se corrigió la configuración de accesibilidad de reproducción automática que no respetaba los GIF."
+  },
+        {
           "version": "12.38.1",
           "date": "2026-11-05",
           "size": 0,
