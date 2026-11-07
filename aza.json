@@ -300,6 +300,24 @@
       "localizedDescription": "✅ Nueva actualización — ASJTube 1.5\n\n• Compatible con YouTube 21.44.4.\n• Soporte para iPhone Duo.\n• Apariencia de cristal, o barra de pestañas fija.\n• Búsqueda sin Shorts.\n• Mejoras y correcciones generales."
     }
   ]
+},
+    {
+  "name": "Swiftgram Lead",
+  "bundleIdentifier": "app.swiftgram.ios",
+  "developerName": "AZA",
+  "subtitle": "Swiftgram 13.1.2 + Lead 2.0.2",
+  "localizedDescription": "Swiftgram 13.1.2 con el tweak Lead 2.0.2.\n\n📎 Lead 2.0.2: en Ajustes, mantén presionado “Hacer una pregunta”.\n\nCreada por: @taniaegc24\nMotor de compilación: @FastDecryptBot (AppAssassin)",
+  "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/swiftgram.png",
+  "tintColor": "#2AABEE",
+  "versions": [
+    {
+      "version": "13.1.2",
+      "date": "2026-11-07",
+      "size": 0,
+      "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/SwiftgramLead_13.1.2.ipa",
+      "localizedDescription": "🪧 Swiftgram\n\n⚜️ Las notificaciones con texto completo funcionan en las tres aplicaciones (si tu firma admite App Groups).\n\n⚜️ Se corrigió un error relacionado con el uso compartido de cuentas entre aplicaciones: después de la actualización, el cliente que inicie primero permanecerá conectado y los demás requerirán un nuevo inicio de sesión.\n\n📎 Lead 2.0.2: en Ajustes, mantén presionado “Hacer una pregunta”."
+    }
+  ]
 }
   ],
   "news": []
