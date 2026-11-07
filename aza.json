@@ -282,7 +282,25 @@
       "localizedDescription": "🎶🎧🔥 YTMusicUltimate 2.4.1\n\n📎 Ajustes - Perfil - YTMusic\n\n📌 Activar YTMusic\n📌 Opciones premium\n📌 Opciones del reproductor\n📌 Opciones de tema\n📌 Opciones de la barra de navegación\n📌 Opciones de la barra de pestañas\n📌 Borrar caché"
     }
   ]
-}
-  ],
+},
+    {
+  "name": "YouTube ASJTube",
+  "bundleIdentifier": "com.google.ios.youtube",
+  "developerName": "AZA",
+  "subtitle": "YouTube 21.44.4 + ASJTube 1.5",
+  "localizedDescription": "YouTube 21.44.4 con el tweak ASJTube 1.5.\n\n✅ Nueva actualización — ASJTube 1.5\n\nMod por: @taniaegc24\nCompilación: @FastDecryptBot",
+  "iconURL": "https://raw.githubusercontent.com/abasmultisevicios-prog/AZA/main/youtube.png",
+  "tintColor": "#FF0000",
+  "versions": [
+    {
+      "version": "21.44.4",
+      "date": "2026-11-06",
+      "size": 0,
+      "downloadURL": "https://github.com/abasmultisevicios-prog/AZA/releases/download/V1/YouTubeASJTube_21.44.4.ipa",
+      "localizedDescription": "✅ Nueva actualización — ASJTube 1.5\n\n• Compatible con YouTube 21.44.4.\n• Soporte para iPhone Duo.\n• Apariencia de cristal, o barra de pestañas fija.\n• Búsqueda sin Shorts.\n• Mejoras y correcciones generales."
+    }
+  ]
+},
+  ]
   "news": []
 }
